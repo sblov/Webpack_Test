@@ -1,0 +1,9 @@
+body{
+	background: skyblue;
+}
+
+#ico{
+	width: 100px;
+	height: 100px;
+	background: url('../image/1.jpg');
+}
